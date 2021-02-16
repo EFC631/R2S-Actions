@@ -20,4 +20,4 @@ sed -i "/CYXluq4wUazHjmCDBCqXF/d" package/lean/default-settings/files/zzz-defaul
 
 # Add packages
 git clone https://github.com/vernesong/OpenClash.git package/OpenClash
-git clone https://github.com/kenzok8/openwrt-packages.git package/ssr-plus
+
