@@ -15,4 +15,3 @@
 
 # Add a feed source
 #sed -i '$a src-git https://github.com/coolsnowwolf/lede.git' feeds.conf.default
-src-git kenzo https://github.com/kenzok8/openwrt-packages
