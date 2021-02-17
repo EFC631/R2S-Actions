@@ -18,3 +18,4 @@ sed -i 's/192.168.1.1/192.168.2.1/g' package/base-files/files/bin/config_generat
 # Add packages
 git clone https://github.com/vernesong/OpenClash.git package/OpenClash
 git clone https://github.com/xiaorouji/openwrt-passwall.git package/passwall
+git clone https://github.com/immortalwrt/luci-app-unblockneteasemusic.git package/unblockneteasemusic
